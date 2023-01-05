@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work as an IT department manager and a backend developer. I am engaged in mathematical modeling in the field of continuum mechanics and web application development
+I work as a head of IT department and a backend developer. I am engaged in mathematical modeling in the field of continuum mechanics and web application development
 
 
 ## 🌐 Socials:
